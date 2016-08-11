@@ -1,0 +1,5 @@
+hello 2
+my 2
+hao 2
+are 1
+you 1
