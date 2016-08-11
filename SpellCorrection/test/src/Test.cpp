@@ -53,7 +53,7 @@ int Test::huiwen(char str[])
 样例输入：1，4，3，110，2，90，7
 样例输出：1 4 7 90 110
 */
-
+#if 0
 vector<int> Test::sort_number(string str)
 {
     int size = str.size()
@@ -88,7 +88,7 @@ vector<int> Test::sort_number(string str)
     return vec;
 }
 
-
+#endif // 0
 
 
 

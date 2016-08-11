@@ -13,7 +13,7 @@ class Test
         //判断字符串是否是回文
         int huiwen(char str[]);
 
-        vector<int> sort_number(string str);
+        //vector<int> sort_number(string str);
 
     protected:
 

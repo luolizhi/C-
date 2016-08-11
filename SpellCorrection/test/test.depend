@@ -1,12 +1,15 @@
 # depslib dependency file v1.0
-1470573404 source:c:\users\lukey\documents\github\c++\c_plus_plus\spellcorrection\test\main.cpp
-	<iostream>
-	"Test.h"
+1470837524 source:c:\users\lukey\documents\github\c++\c_plus_plus\spellcorrection\test\main.cpp
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<malloc.h>
 
-1470560987 c:\users\lukey\documents\github\c++\c_plus_plus\spellcorrection\test\include\test.h
+1470744941 c:\users\lukey\documents\github\c++\c_plus_plus\spellcorrection\test\include\test.h
 	<cstring>
 	<cctype>
+	<vector>
 
-1470562411 source:c:\users\lukey\documents\github\c++\c_plus_plus\spellcorrection\test\src\test.cpp
+1470744974 source:c:\users\lukey\documents\github\c++\c_plus_plus\spellcorrection\test\src\test.cpp
 	"Test.h"
 
