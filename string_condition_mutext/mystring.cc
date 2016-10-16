@@ -31,7 +31,7 @@ String::String(const char *str)//有参构造函数
 	pstr_ = new char[strlen(str)+1];
 	strcpy(pstr_, str);
 }
-String::String(const String & rhs)	//复制构造，考虑自复制情况？
+String::String(const String & rhs)	//复制构造，不用考虑自复制情况。！！！
 {
 	std::cout << "String(const String & rhs)" << std::endl;
 	pstr_ = new char[strlen(rhs.pstr_) + 1];
